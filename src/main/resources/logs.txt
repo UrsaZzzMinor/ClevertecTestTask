@@ -1,0 +1,77 @@
+2021-11-29 00:39:03,653 ERROR  [main] Invalid data : For input string: ""
+2021-11-29 00:39:03,658 ERROR  [main] Invalid data : For input string: ""
+2021-11-29 00:39:47,529 ERROR  [main] Missing data : Index 36 out of bounds for length 5
+2021-11-29 00:39:47,533 ERROR  [main] Missing data : Index 36 out of bounds for length 5
+2021-11-29 01:20:34,321 ERROR  [main] Unable to find a File : src\main\resources (Access is denied)
+2021-11-29 01:20:34,327 ERROR  [main] Unable to close BufferedReader : null
+2021-11-29 01:20:34,327 ERROR  [main] Incorrect filename : Incorrect filename : src/main/resources/
+2021-11-29 01:20:34,333 ERROR  [main] Invalid data : For input string: "asdasd"
+2021-11-29 01:20:34,334 ERROR  [main] Invalid data : For input string: "asdasd"
+2021-11-29 01:20:34,341 ERROR  [main] Missing data : Index 36 out of bounds for length 5
+2021-11-29 01:20:34,342 ERROR  [main] Missing data : Index 36 out of bounds for length 5
+2021-11-29 01:32:38,287 ERROR  [main] Unable to find a File : src\main\resources (Access is denied)
+2021-11-29 01:32:38,295 ERROR  [main] Unable to close BufferedReader : null
+2021-11-29 01:32:38,296 ERROR  [main] Incorrect filename : Incorrect filename : src/main/resources/
+2021-11-29 01:32:38,300 ERROR  [main] Invalid data : For input string: "asdasd"
+2021-11-29 01:32:38,301 ERROR  [main] Invalid data : For input string: "asdasd"
+2021-11-29 01:32:38,304 ERROR  [main] Missing data : Index 36 out of bounds for length 5
+2021-11-29 01:32:38,304 ERROR  [main] Missing data : Index 36 out of bounds for length 5
+2021-11-29 02:48:47,765 ERROR  [main] Unable to find a File : 
+2021-11-29 02:48:47,770 ERROR  [main] Unable to close BufferedReader : null
+2021-11-29 02:48:47,770 ERROR  [main] Incorrect filename : Incorrect filename
+2021-11-29 02:50:33,056 ERROR  [main] Unable to find a File : 
+2021-11-29 02:50:33,063 ERROR  [main] Unable to close BufferedReader : null
+2021-11-29 02:50:33,063 ERROR  [main] Unable to find a File : Incorrect filename
+2021-11-29 02:52:01,243 ERROR  [main] Unable to find a File : src\main\resources (Access is denied)
+2021-11-29 02:52:01,248 ERROR  [main] Unable to close BufferedReader : null
+2021-11-29 02:52:01,248 ERROR  [main] Incorrect filename : Incorrect filename
+2021-11-29 02:52:01,253 ERROR  [main] Invalid data : For input string: "asdasd"
+2021-11-29 02:52:01,254 ERROR  [main] Invalid data : For input string: "asdasd"
+2021-11-29 02:52:01,257 ERROR  [main] Missing data : Index 36 out of bounds for length 5
+2021-11-29 02:52:01,257 ERROR  [main] Missing data : Index 36 out of bounds for length 5
+2021-11-29 03:16:20,633 ERROR  [main] Unable to find a File : src\main\resources (Access is denied)
+2021-11-29 03:16:20,638 ERROR  [main] Unable to close BufferedReader : null
+2021-11-29 03:16:20,638 ERROR  [main] Unable to find a File : Incorrect filename : src\main\resources (Access is denied)
+2021-11-29 03:16:20,644 ERROR  [main] Invalid data : For input string: "asdasd"
+2021-11-29 03:16:20,658 ERROR  [main] Missing data : Index 36 out of bounds for length 5
+2021-11-29 03:18:07,014 ERROR  [main] Unable to find a File : src\main\resources (Access is denied)
+2021-11-29 03:18:07,019 ERROR  [main] Unable to close BufferedReader : null
+2021-11-29 03:18:07,019 ERROR  [main] Unable to find a File : Incorrect filename : src\main\resources (Access is denied)
+2021-11-29 03:18:07,025 ERROR  [main] Invalid data : For input string: "asdasd"
+2021-11-29 03:18:07,025 ERROR  [main] Invalid data : Invalid data : For input string: "asdasd"
+2021-11-29 03:18:07,029 ERROR  [main] Missing data : Index 36 out of bounds for length 5
+2021-11-29 03:18:07,029 ERROR  [main] Missing data : Missing data : Index 36 out of bounds for length 5
+2021-11-29 03:18:52,274 ERROR  [main] Unable to find a File : src\main\resources (Access is denied)
+2021-11-29 03:18:52,281 ERROR  [main] Unable to close BufferedReader : null
+2021-11-29 03:18:52,281 ERROR  [main] Unable to find a File : Incorrect filename : src\main\resources (Access is denied)
+2021-11-29 03:18:52,287 ERROR  [main] Invalid data : For input string: "asdasd"
+2021-11-29 03:18:52,288 ERROR  [main] Invalid data : Invalid data : For input string: "asdasd"
+2021-11-29 03:18:52,290 ERROR  [main] Missing data : Index 36 out of bounds for length 5
+2021-11-29 03:18:52,291 ERROR  [main] Missing data : Missing data : Index 36 out of bounds for length 5
+2021-11-29 03:19:59,344 ERROR  [main] Unable to find a File : src\main\resources (Access is denied)
+2021-11-29 03:19:59,349 ERROR  [main] Unable to close BufferedReader : null
+2021-11-29 03:19:59,349 ERROR  [main] Unable to find a File : Incorrect filename : src\main\resources (Access is denied)
+2021-11-29 03:19:59,354 ERROR  [main] Invalid data : For input string: "asdasd"
+2021-11-29 03:19:59,355 ERROR  [main] Invalid data : For input string: "asdasd"
+2021-11-29 03:19:59,358 ERROR  [main] Missing data : Index 36 out of bounds for length 5
+2021-11-29 03:19:59,358 ERROR  [main] Missing data : Index 36 out of bounds for length 5
+2021-11-29 03:21:17,196 ERROR  [main] Unable to close BufferedReader : null
+2021-11-29 03:21:17,201 ERROR  [main] Unable to find a File : Incorrect filename : src\main\resources (Access is denied)
+2021-11-29 03:21:17,206 ERROR  [main] Invalid data : For input string: "asdasd"
+2021-11-29 03:21:17,208 ERROR  [main] Missing data : Index 36 out of bounds for length 5
+2021-11-29 03:21:34,601 ERROR  [main] Unable to close BufferedReader : null
+2021-11-29 03:21:34,606 ERROR  [main] Unable to find a File : Incorrect filename : 
+2021-11-29 03:22:08,943 ERROR  [main] Unable to close BufferedReader : null
+2021-11-29 03:22:08,949 ERROR  [main] Unable to find a File : Incorrect filename : src\main\resources (Access is denied)
+2021-11-29 03:22:08,952 ERROR  [main] Invalid data : For input string: "asdasd"
+2021-11-29 03:22:08,957 ERROR  [main] Missing data : Index 36 out of bounds for length 5
+2021-11-29 03:24:05,660 ERROR  [main] Missing data : Index 36 out of bounds for length 5
+2021-11-29 03:24:19,810 ERROR  [main] Invalid data : For input string: "asdasd"
+2021-11-29 03:28:48,946 ERROR  [main] Unable to close BufferedReader : null
+2021-11-29 03:28:48,951 ERROR  [main] Unable to find a File : Incorrect filename : src\main\resources (Access is denied)
+2021-11-29 03:28:48,953 ERROR  [main] Invalid data : For input string: "asdasd"
+2021-11-29 03:28:48,956 ERROR  [main] Missing data : Index 36 out of bounds for length 5
+2021-11-29 03:37:54,999 ERROR  [main] Unable to close BufferedReader : null
+2021-11-29 03:37:55,005 ERROR  [main] Unable to find a File : Incorrect filename : src\main\resources (Access is denied)
+2021-11-29 03:37:55,007 ERROR  [main] Invalid data : For input string: "asdasd"
+2021-11-29 03:37:55,010 ERROR  [main] Missing data : Index 36 out of bounds for length 5
